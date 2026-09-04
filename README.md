@@ -10,7 +10,7 @@ in this game, the player explores a mysterious museum and chooses one of three p
 ╰┈➤ service
 ╰┈➤ rooftop
 
-each entrance has a different mathematical challenge. After completing the challenge, the player chooses two items that affect the final ending.
+each entrance has a different mathematical challenge. after completing the challenge, the player chooses two items that affect the final ending.
 
 there are different possible endings depending on the player's choices.
 
